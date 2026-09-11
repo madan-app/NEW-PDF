@@ -8,8 +8,8 @@
 const ROOT = location.pathname.includes("/tools/") ? "../" : "./";
 
 // ---- Site identity — change these two lines to rebrand the whole site ------
-const SITE_NAME = "PDFKit";
-const SITE_LOGO = "PK";
+const SITE_NAME = "NSBC's PDFKit";
+const SITE_LOGO = "NSBC";
 
 // ---- Tool registry (single source of truth for homepage + nav + breadcrumbs)
 const TOOLS = [
